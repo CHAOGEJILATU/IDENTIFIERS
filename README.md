@@ -19,10 +19,10 @@
     <img src="https://img.shields.io/badge/VIAF-7880176726014124980005-2563EB?style=for-the-badge" alt="VIAF">
   </a>
   <a href="https://explore.gnd.network/gnd/1379562554">
-    <img src="https://img.shields.io/badge/GND-1379562554-111827?style=for-the-badge" alt="GND">
+    <img src="https://img.shields.io/badge/GND-1379562554-111827?style=for-the-badge" alt="GERM">
   </a>
   <a href="https://www.wikidata.org/wiki/Q135964663">
-    <img src="https://img.shields.io/badge/WIKIDATA-Q135964663-7C3AED?style=for-the-badge&logo=wikidata&logoColor=white" alt="WIKIDATA">
+    <img src="https://img.shields.io/badge/WIKIDATA-Q135964663-7C3AED?style=for-the-badge&logo=wikidata&logoColor=white" alt="WIKI">
   </a>
 </p>
 
@@ -30,5 +30,5 @@
 
 > OFFICIAL LINKS AND AUTHORITY REFERENCES OF CHAOGEJILATU
 
-- [OFFICIAL WEBSITE](https://www.chaogejilatu.com)
+- [OFFICIAL SITE](https://www.chaogejilatu.com)
 - [OFFICIAL BLOG](https://chaogejilatu.wordpress.com)
